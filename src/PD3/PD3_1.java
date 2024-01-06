@@ -1,3 +1,8 @@
+/*
+ * Sukurkite programą, kuri deklaruoja po vieną kiekvieno primityvaus tipo kintamąjį
+ * (byte, short,int, long, float, double, boolean, char) ir atspausdina jų reikšmes.
+*/
+
 package PD3;
 
 public class PD3_1 {
