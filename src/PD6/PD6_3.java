@@ -9,7 +9,8 @@ import java.util.Arrays;
 public class PD6_3 {
     public static void main(String[] args) {
         int [] array = {1, 3, 5, 7};
-        System.out.println("Masyvas: " + Arrays.toString(array));
+        String arrayToString = Arrays.toString(array);
+        System.out.println("Masyvas: " + arrayToString);
 
         System.out.print("Masyvas: ");
         for(int i = 0; i < array.length; i++){
