@@ -11,6 +11,7 @@ public class PD4_1 {
     public static void main(String[] args) {
         Scanner newInt = new Scanner(System.in);
 
+        System.out.println("Dvieju sveikuju skaiciu ivedimas.");
         System.out.println("Iveskite pirma skaiciu: ");
         int firstInt = newInt.nextInt();
 
