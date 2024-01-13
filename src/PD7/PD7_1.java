@@ -6,11 +6,10 @@ package PD7;
 
 public class PD7_1 {
     public static void main(String[] args) {
-        System.out.println(getNumPov(10));
+        System.out.println("Skaicius kvadratu: " + getNumPov(10));
     }
 
-    public static double getNumPov(int  number){
-        // return number * number
-        return Math.pow(number, 2.0);
+    public static int getNumPov(int number) {
+        return (int) Math.pow(10, 2);
     }
 }
