@@ -1,3 +1,7 @@
+/*
+Parašykite programą, kuri randa elementą, kurio reikšmė yra artimiausia viso masyvo elementųvidurkiui.
+*/
+
 package PD6;
 
 public class PD6_15 {
