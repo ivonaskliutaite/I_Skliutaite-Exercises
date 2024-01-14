@@ -12,5 +12,11 @@ public class PD6_6 {
         for(int i = 0; i < array.length; i++){
             System.out.print(array[i] + "; ");
         }
+
+        int doWhileCounterIndex = 0;
+        do{
+            System.out.println(array[doWhileCounterIndex] + " ");
+            doWhileCounterIndex++;
+        } while (doWhileCounterIndex < array.length);
     }
 }
