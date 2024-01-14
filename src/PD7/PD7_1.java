@@ -10,6 +10,6 @@ public class PD7_1 {
     }
 
     public static int getNumPov(int number) {
-        return (int) Math.pow(10, 2);
+        return (int) Math.pow(number, 2);
     }
 }
